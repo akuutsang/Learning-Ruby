@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning-Ruby
 - This repository will comprise of my learning process on Ruby and it will track my progress
 ## Setting up linters (linters tutorials)
@@ -14,3 +15,6 @@
 
 . After creating your folders and files, you can follow the link below, to microverse github account, and chose the type of linters you want, but because we only need linters for Ruby, we will sellect that of Ruby.
  - https://github.com/microverseinc/linters-config/blob/master/ruby/.rubocop.yml (microverse github linters-checkers link)
+=======
+# Learning-Ruby
+>>>>>>> main
